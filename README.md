@@ -46,7 +46,7 @@ Welding
 
 ---
 
-## Use Case
+## Use Case 
 
 This automation simulates analytics workflows used in manufacturing environments such as those following the Toyota Production System.
 
