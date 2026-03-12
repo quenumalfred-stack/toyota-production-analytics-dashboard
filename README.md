@@ -1,4 +1,4 @@
-![Dashboard Preview](dashboard_preview.png)
+
 
 # Toyota Production Analytics Dashboard — Excel VBA Project
 
