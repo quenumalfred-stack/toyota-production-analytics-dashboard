@@ -2,6 +2,8 @@
 
 # Toyota Production Analytics Dashboard — Excel VBA Project
 
+![Dashboard Preview](dashboard_preview.png)
+
 ## Overview
 
 This project demonstrates automation of manufacturing analytics using Excel VBA inspired by the Toyota Production System (TPS).
